@@ -57,3 +57,8 @@ Para Utilizar é necessario ter instalado:
   VirtualBox: https://www.virtualbox.org/
 
 ```  
+
+
+
+https://www.metricfire.com/blog/deploying-grafana-to-kubernetes/
+https://grafana.com/grafana/dashboards/12740/reviews
